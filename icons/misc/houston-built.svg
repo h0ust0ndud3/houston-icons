@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177" height="30" viewBox="0 0 236 40" role="img" aria-label="Houston Built">
+  <rect width="236" height="40" rx="7" fill="#413C3C"/>
+  <path d="M136 0h94a6 6 0 0 1 6 6v28a6 6 0 0 1-6 6h-94V0z" fill="#FFF837"/>
+  <rect x="130" y="0" width="12" height="40" fill="#FFF837"/>
+  <rect x="0" y="0" width="236" height="20" fill="#fff" opacity="0.07"/>
+
+  <g font-family="Arial Black, Arial, system-ui, sans-serif" font-size="17" font-weight="900" letter-spacing="1">
+    <text x="68" y="27" text-anchor="middle" fill="#000" opacity="0.22">HOUSTON</text>
+    <text x="68" y="26" text-anchor="middle" fill="#fff">HOUSTON</text>
+  </g>
+
+  <g font-family="Arial Black, Arial, system-ui, sans-serif" font-size="20" font-weight="900" letter-spacing="1">
+    <text x="183" y="29" text-anchor="middle" fill="#000" opacity="0.22">BUILT</text>
+    <text x="183" y="28" text-anchor="middle" fill="#111">BUILT</text>
+  </g>
+</svg>
