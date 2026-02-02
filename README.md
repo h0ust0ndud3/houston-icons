@@ -1,14 +1,12 @@
 # houston-icons
-## 🎨 Icon Vault
+## Icon Vault
 
 A tiny, purpose-built repository for hosting **icons, logos, and small UI images**  
 — optimized for documentation, dashboards, notes, and homelab projects.
 
-Think of this as my personal **icon CDN** 🚀
+Think of this as my personal **icon CDN**
 
 ---
-
-## 🧭 Whats the Purpose?
 
 This repository exists to:
 - Host **small, pre-sized PNG/SVG icons**
@@ -20,10 +18,6 @@ This repository exists to:
   - Dashboards
   - Homelab UIs
   - Docs & wikis
-
-No builds.  
-No code.  
-Just **icons**.
 
 ---
 
